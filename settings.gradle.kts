@@ -1,2 +1,2 @@
-rootProject.name = "FastJ Kotlin Template"
+rootProject.name = "FastJ Model Viewer"
 include(":")
